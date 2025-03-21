@@ -2,7 +2,7 @@
 
 #### 🎓 Education:
 - **MSc in Artificial Intelligence and Robotics** - Sapienza, University of Rome (Currently enrolled)
-- **BSc in Automation Engineering** - Sapienza, University of Rome
+- **BSc in Computer and Automation Engineering** - Sapienza, University of Rome
 
 #### 🚀 About Me:
 I'm passionate about **🤖 Artificial Intelligence, 🧠 Reinforcement Learning, and 📡 Probabilistic Robotics**. 
