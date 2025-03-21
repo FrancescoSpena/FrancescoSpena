@@ -5,9 +5,9 @@
 - **BSc in Computer and Automation Engineering** - Sapienza, University of Rome
 
 #### 🚀 About Me:
-I'm **passionate** about **🤖 Artificial Intelligence, 🧠 Reinforcement Learning, and 📡 Probabilistic Robotics**. 
+I'm **passionate** about **🤖 Artificial Intelligence, 🧠 Reinforcement Learning, and 📡 Computer Vision**. 
 
-My **projects** focus on **📊 Machine Learning, 📍 Localization, and 📸 Pose Estimation**. 
+My **projects** focus on **📊 Reinforcement Learning, 📍 Localization, and 📸 Pose Estimation**. 
 
 Currently, I'm exploring **🛰️ AI applied to robotics, SLAM and 🏗️ 3D Reconstruction**.
 
