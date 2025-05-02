@@ -10,7 +10,7 @@ I'm **passionate** about **🤖 Artificial Intelligence, 🧠 Reinforcement Lear
 
 My **projects** focus on **📊 Machine Learning, 📍 Localization and 📸 Pose Estimation**. 
 
-Currently, I'm exploring **🛰️ AI applied to robotics, SLAM and 🏗️ 3D Reconstruction**.
+Currently, I'm exploring **🛰️ AI applied to robotics, Neural SLAM and 🏗️ 3D Reconstruction**.
 
 ---
 #### 🔧 Technologies & Tools:
