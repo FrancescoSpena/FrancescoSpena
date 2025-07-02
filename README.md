@@ -28,8 +28,8 @@ Currently, I'm exploring **Implicit Mapping, Neural SLAM and 3D Reconstruction**
 ---
 
 ### 📚 Academic Highlights:
-- **MSc Thesis**: Point-Slam: Dense Neural Point Cloud-based SLAM
-- **BSc Thesis**: Development of a Differential Mobile Platform for Position Estimation Using Encoder Odometer (under Prof. Giorgio Grisetti)
+- **MSc Thesis**: Neural SLAM (Work in progress...)
+- **BSc Thesis**: Development of a Differential Mobile Platform for Position Estimation Using Encoder Odometer (under Prof. ![Giorgio Grisetti](https://sites.google.com/dis.uniroma1.it/grisetti))
 
 ---
 
