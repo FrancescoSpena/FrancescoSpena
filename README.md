@@ -8,7 +8,7 @@
 #### 🚀 About Me:
 I'm **passionate** about **🤖 Artificial Intelligence, 🧠 Reinforcement Learning, Neural SLAM and 📡 Computer Vision**. 
 
-My **projects** focus on **📊 Machine Learning, 📍 Localization and 📸 Pose Estimation**. 
+My **projects** focus on **📊 Machine Learning, 📍 Localization, 3D Reconstruction and 📸 Pose Estimation**. 
 
 Currently, I'm exploring **Implicit Mapping, Neural SLAM and 3D Reconstruction**.
 
