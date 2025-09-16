@@ -28,13 +28,14 @@ Currently, I'm exploring **Implicit Mapping, Neural SLAM and 3D Reconstruction**
 ---
 
 ### 📚 Academic Highlights:
-- **MSc Thesis**: Neural SLAM (Work in progress...)
-- **BSc Thesis**: Development of a Differential Mobile Platform for Position Estimation Using Encoder Odometer
+- **MSc Thesis**: KAN-SLAM: Exploring Kolmogorov-Arnold Networks for Dense Implicit Surface Modeling (Sapienza, University of Rome)
+- **BSc Thesis**: Sviluppo di una piattaforma mobile differenziale per stima della posa attraverso Encoder Odometry [Italian Thesis], (Sapienza, University of Rome)
 
 ---
 
 #### 🌍 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-spena-97455a2a4/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:francesco.spena4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-spena-97455a2a4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:francesco.spena4@gmail.com)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancescoSpena&show_icons=true&theme=radical)
