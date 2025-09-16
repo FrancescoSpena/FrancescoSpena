@@ -28,8 +28,10 @@ Currently, I'm exploring **Implicit Mapping, Neural SLAM and 3D Reconstruction**
 ---
 
 ### 📚 Academic Highlights:
-- **MSc Thesis** -- KAN-SLAM: Exploring Kolmogorov-Arnold Networks for Dense Implicit Surface Modeling (Sapienza, University of Rome)
-- **BSc Thesis** -- Sviluppo di una piattaforma mobile differenziale per stima della posa attraverso Encoder Odometry [Italian Thesis], (Sapienza, University of Rome)
+- **MSc Thesis**\
+KAN-SLAM: Exploring Kolmogorov-Arnold Networks for Dense Implicit Surface Modeling (Sapienza, University of Rome)\
+- **BSc Thesis**\
+Sviluppo di una piattaforma mobile differenziale per stima della posa attraverso Encoder Odometry [Italian Thesis], (Sapienza, University of Rome)\
 
 ---
 
