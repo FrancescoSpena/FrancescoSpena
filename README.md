@@ -1,7 +1,7 @@
 ### Hi there, I'm Francesco Spena! 👋
 
 #### 🎓 Education:
-- **MSc in Artificial Intelligence and Robotics** - Sapienza, University of Rome (Currently enrolled)
+- **MSc in Artificial Intelligence and Robotics** - Sapienza, University of Rome
 - **BSc in Computer and Automation Engineering** - Sapienza, University of Rome
 
 ---
